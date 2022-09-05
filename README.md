@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ricardo Guzman Garcia</h1>
 <h3 align="center">Currently studying Computer Science at BUAP, Mexico.</h3>
 
-- 🔭 I'm currently working on [TINTEF](https://www.fcfm.buap.mx/taller/)
 - 🌱 I'm currently learning **Frontend development**
+
+- 🔭 I worked on [TINTEF](https://www.fcfm.buap.mx/taller/)!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
